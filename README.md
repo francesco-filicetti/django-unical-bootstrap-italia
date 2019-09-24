@@ -200,7 +200,7 @@ Esempio di pagine figlie (qui index.html)
             <a class="read-more" href="#">
               <span class="text">Leggi di più</span>
               <svg class="icon">
-                <use xlink:href="/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
+                <use xlink:href="{% static 'svg/sprite.svg' %}#it-arrow-right"></use>
               </svg>
             </a>
           </div>
@@ -216,7 +216,7 @@ Esempio di pagine figlie (qui index.html)
             <a class="read-more" href="#">
               <span class="text">Leggi di più</span>
               <svg class="icon">
-                <use xlink:href="/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
+                <use xlink:href="{% static 'svg/sprite.svg' %}#it-arrow-right"></use>
               </svg>
             </a>
           </div>
@@ -232,7 +232,7 @@ Esempio di pagine figlie (qui index.html)
             <a class="read-more" href="#">
               <span class="text">Leggi di più</span>
               <svg class="icon">
-                <use xlink:href="/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
+                <use xlink:href="{% static 'svg/sprite.svg' %}#it-arrow-right"></use>
               </svg>
             </a>
           </div>
@@ -248,7 +248,7 @@ Esempio di pagine figlie (qui index.html)
             <a class="read-more" href="#">
               <span class="text">Leggi di più</span>
               <svg class="icon">
-                <use xlink:href="/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
+                <use xlink:href="{% static 'svg/sprite.svg' %}#it-arrow-right"></use>
               </svg>
             </a>
           </div>
@@ -264,7 +264,7 @@ Esempio di pagine figlie (qui index.html)
             <a class="read-more" href="#">
               <span class="text">Leggi di più</span>
               <svg class="icon">
-                <use xlink:href="/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
+                <use xlink:href="{% static 'svg/sprite.svg' %}#it-arrow-right"></use>
               </svg>
             </a>
           </div>
@@ -280,7 +280,7 @@ Esempio di pagine figlie (qui index.html)
             <a class="read-more" href="#">
               <span class="text">Leggi di più</span>
               <svg class="icon">
-                <use xlink:href="/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
+                <use xlink:href="{% static 'svg/sprite.svg' %}#it-arrow-right"></use>
               </svg>
             </a>
           </div>
@@ -296,7 +296,7 @@ Esempio di pagine figlie (qui index.html)
             <a class="read-more" href="#">
               <span class="text">Leggi di più</span>
               <svg class="icon">
-                <use xlink:href="/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
+                <use xlink:href="{% static 'svg/sprite.svg' %}#it-arrow-right"></use>
               </svg>
             </a>
           </div>
